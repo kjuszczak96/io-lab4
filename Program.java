@@ -5,7 +5,7 @@ class Lamp {
 
   // method
   public void turnOn() {
-    isOn = true;
+    isTurnedOn = true;
   }
 
   // method
