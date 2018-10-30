@@ -10,10 +10,10 @@ class Lamp {
 
   // method
   public void turnOff() {
-  	isOn = false;
+  	isTurnedOn = false;
   }
   
   public boolean getStatus() {
-	return isOn;
+	return isTurnedOn;
   }
 }
