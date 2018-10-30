@@ -12,4 +12,8 @@ class Lamp {
   public void turnOff() {
   	isOn = false;
   }
+  
+  public boolean getStatus() {
+	return isOn;
+  }
 }
