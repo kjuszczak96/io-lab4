@@ -1,3 +1,4 @@
+//Default Lamp Class
 class Lamp {
 
   // instance variable
