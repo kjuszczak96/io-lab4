@@ -2,11 +2,11 @@
 class Lamp {
 
   // instance variable
-  private boolean isTurnedOn;
+  private boolean isOn;
 
   // method
   public void turnOn() {
-    isTurnedOn = true;
+    isOn = true;
   }
 
   // method
