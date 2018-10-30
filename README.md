@@ -2,7 +2,7 @@
 
 #Author
 Kamila Kolenda
-Kamil Juszczak
+Limak Juszczak
 
 #Date
 30.10.2018
